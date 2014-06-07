@@ -4,9 +4,9 @@ This project is an imcomplete implemention of a video-based multi-feature flame 
 
 ## Some Words to Say
 
-When I began the study of this subject, I found a lot of articles and very little code on the Internet. So when I finally finished my graduation design, I decided to make it open source.
+When I began the study of this subject, I found a lot of articles and very little code on the Internet. So when I finally finished it, I decided to make it open source.
 
-Note that, this project is not ready for practical application. Due to limited time spent on this project, the code is only partially optimized. However, the response time is totally acceptable when tesing on my Mac.
+Note that, this project is not ready for practical application. Due to limited time spent on this project, the code is only partially optimized. However, the response time is totally acceptable when testing on my Mac.
 
 ## Build Environment
 
