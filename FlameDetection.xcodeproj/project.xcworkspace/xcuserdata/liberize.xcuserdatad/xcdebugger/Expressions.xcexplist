@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FlameExtractor::regionGrow2(cv::Mat&amp;):FlameExtractor.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "cv::Mat::operator()(cv::Rect_&lt;int&gt; const&amp;) const:mat.hpp">
+      </ContextState>
+      <ContextState
+         contextName = "Feature::findCorners(Region const&amp;, int):FeatureAnalyzer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "tmpl[2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FeatureAnalyzer::analyze(cv::Mat const&amp;, std::__1::map&lt;int, Target, std::__1::less&lt;int&gt;, std::__1::allocator&lt;std::__1::pair&lt;int const, Target&gt; &gt; &gt;&amp;):FeatureAnalyzer.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "TargetExtractor::accumulate(int):TargetExtractor.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "mMaskQueue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TargetExtractor::blobTrack(cv::Mat const&amp;, std::__1::map&lt;int, Target, std::__1::less&lt;int&gt;, std::__1::allocator&lt;std::__1::pair&lt;int const, Target&gt; &gt; &gt;&amp;, bool):TargetExtractor.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "targets">
+            </PersistentString>
+            <PersistentString
+               value = "mContours">
+            </PersistentString>
+            <PersistentString
+               value = "vi">
+            </PersistentString>
+            <PersistentString
+               value = "rects">
+            </PersistentString>
+            <PersistentString
+               value = "mFrameCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Feature::calc(Region const&amp;, cv::Mat const&amp;):FeatureAnalyzer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "targets">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TargetExtractor::extract(cv::Mat const&amp;, std::__1::map&lt;int, Target, std::__1::less&lt;int&gt;, std::__1::allocator&lt;std::__1::pair&lt;int const, Target&gt; &gt; &gt;&amp;):TargetExtractor.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "mContours">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
